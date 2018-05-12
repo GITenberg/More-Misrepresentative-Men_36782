@@ -4,7 +4,7 @@ contributor:
   illustrator:
     agent_name: Strauss, Malcolm A.
     birthdate: 1883
-    deathdate: &id001 1936
+    deathdate: 1936
     gutenberg_agent_id: '38472'
     url: http://www.gutenberg.org/2009/agents/38472
 covers:
@@ -17,11 +17,13 @@ creator:
     - Streamer, Col. D.
     - Col. D. Streamer
     birthdate: 1874
-    deathdate: *id001
+    deathdate: 1936
     gutenberg_agent_id: '37231'
     url: http://www.gutenberg.org/2009/agents/37231
     wikipedia: http://en.wikipedia.org/wiki/Harry_Graham_%28poet%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36782#More-Misrepresentative-Men
 gutenberg_issued: '2011-07-19'
 gutenberg_type: Text
 identifiers:
